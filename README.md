@@ -1,0 +1,1 @@
+This project and the other project about adopting a JRR Tolkien's books is to test the AI capability and capacity to construct a well written narrative and flow of the story end to end. Let the quality judged by our intuition.
